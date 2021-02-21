@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/m4m/mechcrab/headcrabsheet"
+	"$normalmapalphaenvmapmask" 1
+	"$bumpmap" "Models/m4m/mechcrab/headcrabsheet_normal"
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,8 @@
+vertexlitgeneric {
+$basetexture models/m4m/mechcrab/mechcrabdif
+$bumpmap models/m4m/mechcrab/mechcrabnor
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$alphatest 1
+$nocull 1
+}
