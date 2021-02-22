@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"HALF-LIFE BEGINNING OF RESISTENCE"
-	title 		"HALF-LIFE BEGINNING OF RESISTENCE"
+	game 		"Half-Life Beginning Of Resistence"
+	title 		"Half-Life Beginning Of Resistence"
 	type		singleplayer_only
 
 	FileSystem
