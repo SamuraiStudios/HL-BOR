@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game 		"Half-Life Beginning Of Resistence"
-	title 		"Half-Life Beginning Of Resistence"
+	game 		"Half-Life Beginning of Resistence"
+	title 		"Half-Life Beginning of Resistence"
 	type		singleplayer_only
 	"icon"			"resource/icon"
 
